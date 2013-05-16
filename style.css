@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+#container {
+	margin: 0 auto;
+}
+
+#myBtn {
+	margin: 0 auto;
+}
