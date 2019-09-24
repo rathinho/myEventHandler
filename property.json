@@ -1,0 +1,48 @@
+{
+    "latest_version": "1.0.5",
+    "latest_version_code": "3",
+    "changelog": "**更新**\n1.0.5 \n1. 在线更新数据源地址",
+    "data_sources": [
+      {
+        "name": "AVMOO 日本",
+        "link": "https://avmask.com",
+        "legacies":[
+          "avmoo.asia",
+          "javzoo.com",
+          "avmoo.xyz",
+          "avmoo.net",
+          "avmoo.pw",
+          "javmoo.com",
+          "javlog.com",
+          "javtag.com",
+          "javhip.com",
+          "avos.pw",
+          "avmo.pw",
+          "avmo.club",
+          "avio.pw",
+          "javdog.com",
+          "javmoo.net"
+        ]
+      },
+      {
+        "name": "AVMOO 日本无码",
+        "link": "https://avsox.asia",
+        "legacies":[
+          "avme.pw",
+          "avsox.net",
+          "javkey.com",
+          "javfee.com",
+          "javpee.com",
+          "avso.pw",
+          "avso.club"
+        ]
+      },
+      {
+        "name": "AVMOO 欧美",
+        "link": "https://avmemo.asia",
+        "legacies":[
+      
+        ]
+      }
+    ]
+  }
